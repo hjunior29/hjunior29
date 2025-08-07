@@ -1,5 +1,5 @@
 # 💫 About Me
-👨‍💻 DevOps Tech Lead.<br>💡 Passionate about technology.<br>📚 Spend hours studying, exploring and discovering new stacks and innovative technologies.
+👨‍💻 Full Stack Software Engineer.<br>💡 Passionate about technology.<br>📚 Spend hours studying, exploring and discovering new stacks and innovative technologies.
 
 
 ## 🌐 Socials
