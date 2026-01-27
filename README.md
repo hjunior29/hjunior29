@@ -16,8 +16,8 @@ Software Engineer based in Goiania, Brazil. I build fullstack and distributed sy
 ## Stats
 
 <a href="https://github.com/hjunior29">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hjunior29&theme=radical&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjunior29&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=hjunior29&theme=radical&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjunior29&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
 ## Contact
