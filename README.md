@@ -1,8 +1,8 @@
-# Helder Junior
+# Helder Lima
 
 **Software Engineer** & **MSc Student in Computer Science (Artificial Intelligence)** at UFG, based in Goiânia, Brazil.
 
-I build end-to-end software — from distributed systems and cloud infrastructure to high-performance backends, real-time web applications, and AI tooling. With a background spanning DevOps, backend, and full-stack engineering, I design systems with an emphasis on resilience, low latency, clean architecture, and cost efficiency.
+I build end-to-end software from distributed systems and cloud infrastructure to high-performance backends, real-time web applications, and AI tooling. With a background spanning DevOps, backend, and full-stack engineering, I design systems with an emphasis on resilience, low latency, clean architecture, and cost efficiency.
 
 ---
 
