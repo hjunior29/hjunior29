@@ -1,4 +1,4 @@
-# Hi, I'm Helder Junior 👋
+# Helder Junior
 
 **Software Engineer** & **MSc Student in Computer Science (Artificial Intelligence)** at UFG, based in Goiânia, Brazil.
 
@@ -6,37 +6,26 @@ I build end-to-end software — from distributed systems and cloud infrastructur
 
 ---
 
-### ⚡ What I Do & Explore
+### Focus & Overview
 
-- **High-Performance Backends & Systems:** Scalable services, APIs, and CLI tools using **Go**, **Elixir**, and **Rust**.
-- **Real-Time & Full-Stack Apps:** Reactive, stateful web applications built with **Svelte/SvelteKit**, **Phoenix LiveView**, and **Bun**.
-- **AI Tooling & LLM Systems:** Semantic code search (RAG), Model Context Protocol (**MCP**) servers, vector databases, and multi-model workflows.
-- **Pragmatic Cloud & DevOps:** Containerized architectures, CI/CD pipelines, and cloud deployments on **Fly.io**, **GCP**, and **AWS**.
-
----
-
-### 🚀 Selected Projects
-
-- **[code-rag](https://github.com/hjunior29/code-rag)** · Local semantic code search engine & MCP server with Tree-sitter AST chunking, FastEmbed embeddings, and pgvector. `Python` `FastAPI` `pgvector` `MCP` · [Docs](https://code-rag.fly.dev)
-- **[automaton](https://github.com/hjunior29/automaton)** · Real-time cellular automata studio & Conway's Game of Life simulation with interactive Canvas controls. `Elixir` `Phoenix LiveView` `HTML5 Canvas` · [Live](https://auto-maton.fly.dev)
-- **[kcal](https://github.com/hjunior29/kcal)** · Privacy-first, zero-database nutrition facts calculator generating official Anvisa-compliant food labels (UNICAMP TACO). `Elixir` `Phoenix LiveView` `SQLite` · [Live](https://kcal.fly.dev)
-- **[quark-shift](https://github.com/hjunior29/quark-shift-api)** · Memory-safe, high-throughput link management microservice with sub-millisecond redirects. `Rust` `Axum` `Tokio` `Vue 3` · [Live](https://quark-shift.fly.dev)
-- **[expert-octo-memory](https://github.com/hjunior29/expert-octo-memory-web)** · AI-assisted spaced-repetition flashcards platform with full-stack TypeScript. `Bun` `SvelteKit` `Google Gemini` · [Live](https://expert-octo-memory.fly.dev)
-- **[video-text-generator](https://github.com/hjunior29/video-text-generator)** · Serverless pipeline for automated vertical video transcription and dynamic karaoke subtitles. `Python` `Whisper` `Remotion` `PyTorch`
+- **Backends & Distributed Systems:** Scalable services, APIs, and microservices using **Go**, **Java**, **Elixir**, and **Rust**.
+- **Real-Time & Full-Stack Apps:** Reactive, stateful web applications built with **Svelte/SvelteKit**, **Phoenix LiveView**, **React**, and **Bun**.
+- **AI Tooling & LLM Systems:** Semantic search (RAG), Model Context Protocol (**MCP**) servers, vector databases, and multi-model pipelines.
+- **Cloud & DevOps:** Containerized architectures, CI/CD pipelines, and cloud deployments on **Fly.io**, **GCP**, and **AWS**.
 
 ---
 
-### 🛠️ Core Stack & Tools
+### Technologies & Tools
 
-- **Languages:** Go · Elixir · Rust · Python · TypeScript · SQL · Bash
-- **Backend & Runtimes:** Phoenix Framework · FastAPI · Gin · Axum · Bun · Node.js
+- **Languages:** Go · Python · TypeScript / JavaScript · Java · Elixir · Rust · C# · SQL · Bash · Lua
+- **Backend & Runtimes:** FastAPI · Phoenix Framework · Gin · Axum · Spring Boot · .NET · Bun · Node.js
 - **Frontend:** Svelte / SvelteKit · React · Vue.js · Tailwind CSS
 - **AI & Data:** Model Context Protocol (MCP) · FastEmbed · pgvector · Gemini · Claude · OpenAI
 - **Cloud & DevOps:** Docker · Fly.io · Google Cloud (GCP) · AWS · Linux · GitHub Actions · PostgreSQL · Redis
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjunior29&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
@@ -45,7 +34,7 @@ I build end-to-end software — from distributed systems and cloud infrastructur
 
 ---
 
-### 📬 Connect
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/helder-junior-silva-lima)
 [![Email](https://img.shields.io/badge/Email-helderjuniorsilvalima%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:helderjuniorsilvalima@gmail.com)
